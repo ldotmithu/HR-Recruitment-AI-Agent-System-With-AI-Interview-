@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 86433776d89fec9cd196622eec99b1cb422dbc90 ldotmithu <ldotmithurshan222@gmail.com> 1751871972 +0530	clone: from https://github.com/ldotmithu/HR-Recruitment-AI-Agent-System.git
+86433776d89fec9cd196622eec99b1cb422dbc90 891257ea0494410dc8aea4e36868c0e5e2bb77d0 ldotmithu <ldotmithurshan222@gmail.com> 1751875642 +0530	commit: updateed agents
+891257ea0494410dc8aea4e36868c0e5e2bb77d0 a0f4c3d563a5970dbacd8855bbddd3eff87374b9 ldotmithu <ldotmithurshan222@gmail.com> 1751882436 +0530	commit: update structure
+a0f4c3d563a5970dbacd8855bbddd3eff87374b9 7d958550108e418d914723525840f06189e97528 ldotmithu <ldotmithurshan222@gmail.com> 1751882700 +0530	commit: updated folder structure
+7d958550108e418d914723525840f06189e97528 a267d14cec4bd119727ae95c8b9eb06c810c1b99 ldotmithu <ldotmithurshan222@gmail.com> 1751882985 +0530	commit: install requirements
+a267d14cec4bd119727ae95c8b9eb06c810c1b99 ee1a9cd71df8d427d5999713accf45cd05606d46 ldotmithu <ldotmithurshan222@gmail.com> 1751884050 +0530	commit: update state
+ee1a9cd71df8d427d5999713accf45cd05606d46 984df33353fb7f23a7f919779ea0a326e5275209 ldotmithu <ldotmithurshan222@gmail.com> 1751885922 +0530	commit: updated tools
+984df33353fb7f23a7f919779ea0a326e5275209 0968efe63a8f09dc912720ce7415f2687731a8a6 ldotmithu <ldotmithurshan222@gmail.com> 1751885997 +0530	commit: update llm
+0968efe63a8f09dc912720ce7415f2687731a8a6 6099a25034a4414201f49b5214ed433165e196ee ldotmithu <ldotmithurshan222@gmail.com> 1751887307 +0530	commit: update workflow
+6099a25034a4414201f49b5214ed433165e196ee 83b844825d0519829089fbd4d8293ead0f52ad7b ldotmithu <ldotmithurshan222@gmail.com> 1751887353 +0530	commit: update workflow
+83b844825d0519829089fbd4d8293ead0f52ad7b 7f2dda3b3c48c57b0af150ce773d9f078817b8b4 ldotmithu <ldotmithurshan222@gmail.com> 1751888869 +0530	commit: updated backend and ui
+7f2dda3b3c48c57b0af150ce773d9f078817b8b4 6b83e0ed99ccf03aa709dc27ab6b1b29d7ed1500 ldotmithu <ldotmithurshan222@gmail.com> 1751889897 +0530	commit: updated readme.md
+6b83e0ed99ccf03aa709dc27ab6b1b29d7ed1500 e4d52d880e68c6e2cb7c73de1ada6f462e0ee813 ldotmithu <ldotmithurshan222@gmail.com> 1751889949 +0530	commit: updated readme.md
+e4d52d880e68c6e2cb7c73de1ada6f462e0ee813 07a0d9640908177a1fd8cfca0b467b6b219b622f ldotmithu <ldotmithurshan222@gmail.com> 1751890050 +0530	commit: updated
+07a0d9640908177a1fd8cfca0b467b6b219b622f b7a48673255d139132c0dbcef381db3f96ad787c ldotmithu <ldotmithurshan222@gmail.com> 1751891121 +0530	commit: update backend and ui
+b7a48673255d139132c0dbcef381db3f96ad787c a4b86932a13b383cf4b1567e59156d0c0998bef5 ldotmithu <ldotmithurshan222@gmail.com> 1751891307 +0530	commit: update ui
+a4b86932a13b383cf4b1567e59156d0c0998bef5 eefdb359d1baa5014ad92811ee387f522f9f3d27 ldotmithu <ldotmithurshan222@gmail.com> 1751903795 +0530	commit: updated
+eefdb359d1baa5014ad92811ee387f522f9f3d27 d822b1c0312eadf0f2310b5b967d8ef17134e937 ldotmithu <ldotmithurshan222@gmail.com> 1751903885 +0530	commit: update
+d822b1c0312eadf0f2310b5b967d8ef17134e937 da620a5ac1ec488a9147237075d36008b58710f5 ldotmithu <ldotmithurshan222@gmail.com> 1751904346 +0530	commit: update
+da620a5ac1ec488a9147237075d36008b58710f5 3cf62699484676d4c7aa1065385f3f67355c2917 ldotmithu <ldotmithurshan222@gmail.com> 1751904380 +0530	commit: updated
+3cf62699484676d4c7aa1065385f3f67355c2917 92626d8baa6e90323e095fbc0b65cb94015559eb ldotmithu <ldotmithurshan222@gmail.com> 1751904488 +0530	commit: updated
+92626d8baa6e90323e095fbc0b65cb94015559eb 4269be3cfab95959a42a23521b101432c7434841 ldotmithu <ldotmithurshan222@gmail.com> 1760518572 +0530	commit: updated
+4269be3cfab95959a42a23521b101432c7434841 88f79debfcdcfc2f3390877be4570be1ac993df6 ldotmithu <ldotmithurshan222@gmail.com> 1764844931 +0530	commit: updated
+88f79debfcdcfc2f3390877be4570be1ac993df6 c7a1325d6de07dc3c3987fdff5332cb0fccb4555 ldotmithu <ldotmithurshan222@gmail.com> 1764874424 +0530	commit: feat: Introduce initial HR AI agent system with resume processing, AI interview capabilities, candidate database management, email invitations, and a frontend application.
+c7a1325d6de07dc3c3987fdff5332cb0fccb4555 398805a69c8b1834d0288e6a7e06e4f170570701 ldotmithu <ldotmithurshan222@gmail.com> 1766313490 +0530	commit: feat: Implement initial HR SmartHire AI system with Streamlit frontend, FastAPI backend, and core LLM workflow logic.
+398805a69c8b1834d0288e6a7e06e4f170570701 ae95abe44ba146b786601355d20bea7832849c7b ldotmithu <ldotmithurshan222@gmail.com> 1766313637 +0530	commit: chore: Replace hardcoded credentials with placeholders in .env-example
+ae95abe44ba146b786601355d20bea7832849c7b 5121ec090194d17c1ca585a97ceb44f0f3b16295 ldotmithu <ldotmithurshan222@gmail.com> 1766313845 +0530	commit: push
+5121ec090194d17c1ca585a97ceb44f0f3b16295 bcfedfa3c073b1e31c2d194d666cb0659900d5f5 ldotmithu <ldotmithurshan222@gmail.com> 1766314624 +0530	commit: save
+bcfedfa3c073b1e31c2d194d666cb0659900d5f5 8c886a72692704b236d80d3e2055480845444fa4 ldotmithu <ldotmithurshan222@gmail.com> 1766434210 +0530	commit: update
+8c886a72692704b236d80d3e2055480845444fa4 e49bf87af143b96737ece4f6e72f195eac645c15 ldotmithu <ldotmithurshan222@gmail.com> 1767374429 +0530	commit: update
